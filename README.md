@@ -101,8 +101,6 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jackb-cs&color=00ff41&style=flat-square&label=Profile+Views)
-
 ```
 "The quieter you become, the more you are able to hear." — Kali Linux motto
 ```
