@@ -68,15 +68,6 @@ I enjoy creating useful projects, learning how systems work, and improving my sk
 - Contribute to open-source projects
 - Work towards my first role or internship in tech/cybersecurity
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackb-cs&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackb-cs&layout=compact&theme=default&hide_border=true)
 
 </div>
 
