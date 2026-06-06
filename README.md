@@ -15,8 +15,8 @@ I enjoy creating useful projects, learning how systems work, and improving my sk
 ## About Me
 
 - 🎓 Currently studying **Level 3 Computing**
-- 💻 Interested in **software development**, **cybersecurity**, and **open-source technology**
-- 🛠️ I enjoy building practical projects and learning by doing
+- 💻 Interested in **software development**, **cybersecurity**
+- 🛠️ I enjoy building practical projects and learning by doing so
 - 🔐 Working towards a future career in **cybersecurity**
 - 🌱 Always learning new tools, frameworks, and better ways to build secure software
 
@@ -50,23 +50,23 @@ I enjoy creating useful projects, learning how systems work, and improving my sk
 
 - Web development
 - Mobile app development
-- Cybersecurity fundamentals
+- Cybersecurity 
 - Linux systems
 - Networking
-- Secure coding
-- Open-source software
-- Developer tooling and automation
+- Open source software
+- Automation scripting
 
 ---
 
 ## Current Goals
 
+- To swap from claude code to codex
 - Complete my Level 3 Computing qualification
 - Build and publish more practical projects
 - Improve my knowledge of secure software development
-- Learn more about Linux, networking, and defensive security
+- Learn more about Linux, networking, and defensive security (currently doing that by using getting tryhackme certs and hack the box experience)
 - Contribute to open-source projects
-- Work towards my first role or internship in tech/cybersecurity
+- Getting my first internship in cybersecurity
 
 
 </div>
@@ -79,6 +79,5 @@ I enjoy creating useful projects, learning how systems work, and improving my sk
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jackb--cs-181717?style=for-the-badge&logo=github)](https://github.com/Jackb-cs)
 
-Open to learning, collaboration, and building useful projects.
 
 </div>
